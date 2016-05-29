@@ -1,5 +1,6 @@
 
 titanic_original.csv file attached
+titanic_clean.csv file attached
 
 * Find the missing values and replace them with S
 * Calculate the mean of the Age column and use that value to populate the missing values. Why would you pick any of those over the mean (or not)?
